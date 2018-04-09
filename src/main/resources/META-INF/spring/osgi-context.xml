@@ -21,4 +21,6 @@
     </osgi:service-properties>  
   </osgi:service>
   
+  <!-- comment to remove -->
+  
 </beans>
