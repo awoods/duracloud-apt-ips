@@ -32,5 +32,7 @@
     <property name="destination" ref="listenerDestination" />
     <property name="serviceId" value="duplicationservice-${project.version}" />
   </bean>
+	
+	<!-- comment to remove -->
 
 </beans>
